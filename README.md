@@ -1,2 +1,5 @@
 # FormationConverter
-Convert 10 formation number to whatever formation you like
+Convert decimal number to binary number
+# How To Use
+1. Put decimal number in Number variable
+2. Run the code
